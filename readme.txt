@@ -1,4 +1,4 @@
-Free Download Source Code "Online Book Shop System"
+
 
 FIRST Download
 
@@ -23,10 +23,3 @@ FIRST Download
 7.Run the script http:/book_shop
 **LOGIN DETAILS** 
 
-Admin
-user: admin
-pass: admin123
-
-
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
