@@ -59,12 +59,14 @@
   })
 </script>
 <!-- Footer-->
-<footer class="py-5 bg-dark">
-            <div class="container">
-              <p class="m-0 text-center text-white">Copyright &copy; <?php echo $_settings->info('short_name') ?> 2021</p>
-              <p class="m-0 text-center text-white">Developed By: <a href="https://1sourcecodr.blogspot.com/">oretnom23</a></p>
-          </div>
-        </footer>
+<footer class="main-footer text-sm">
+    <strong>Copyright © 2023. </strong>
+    All rights reserved.
+    <div class="float-right d-none d-sm-inline-block">
+        <b>Chethan R AND Chiranth TS</b> v1.0
+    </div>
+</footer>
+
 
    
     <!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
